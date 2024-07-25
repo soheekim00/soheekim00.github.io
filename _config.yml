@@ -12,7 +12,7 @@ title                    : "Sohee / Kim"
 title_separator          : "-"
 name                     : &name "Sohee Kim"
 description              : &description "PhD student in Health Servicee Research in Pharmacy"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://soheekim00.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
